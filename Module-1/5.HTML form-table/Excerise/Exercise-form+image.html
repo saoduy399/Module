@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Biểu mẫu</title>
+</head>
+<body>
+<style>p.center{text-align:center;}</style>
+<style>
+    #head{
+        height: 90px;
+        background-color: #F5F5F5;
+        border: 1px solid #CDCDCD;
+        margin-bottom:5px;
+    }
+</style>
+<div id="pape">
+    <div id="head">
+        <div><p class="center"><span style="font-size:40px"><strong>Thông tin liên hệ</strong></span></p></div>
+    </div>
+    <p class="center"><img src="../Photos/We-need-you.jpg" height="300" width="900"/></p>
+</div>
+<p class="center">
+<form>
+    <fieldset>
+        <legend><span style="font-size: 25px"><strong>Thông tin cá nhân</strong></span></legend>
+        Mô tả:<br>
+        <input type="text" name="thongtincanhan" size="200%"></input>
+    </fieldset>
+</form>
+<form>
+    <fieldset>
+        <legend><span style="font-size: 25px"><strong>Họ và Tên:</strong></span></legend>
+        Mô tả:<br>
+        <input type="text" name="hovaten" size="200%"></input>
+    </fieldset>
+</form>
+</form>
+<fieldset>
+    <legend><span style="font-size: 25px"><strong>Bạn đang ở đâu?:</strong></span></legend>
+    <select <span style="font-size:25px">name="city"</span>
+    <option value="HN">Hà Nội</option>
+    <option value="VT">Việt Trì</option>
+    <option value="HCM">Hồ Chí Minh</option>
+    <option value="Hue">Huế</option>
+    <option value="DN">Đà Nẵng</option>
+    <option value="NA">Nghệ An</option>
+    <option value="VT">Vũng Tàu</option>
+    <option value="HD">Hai Dương</option>
+    </select>
+</fieldset>
+</form>
+<form>
+    <fieldset>
+        <legend><span style="font-size: 25px"><strong>Gmail:</strong></span></legend>
+        Mô tả:<br>
+        <input type="text" name="gmail" size="200%"></input>
+    </fieldset>
+</form>
+<form>
+    <fieldset>
+        <legend><span style="font-size: 25px"><strong>Địa chỉ:</strong></span></legend>
+        Mô tả:<br>
+        <input type="text" name="diachi" size="200%"></input>
+    </fieldset>
+</form>
+<form>
+    <fieldset>
+        <legend><span style="font-size: 25px"><strong>Số điện thoại:</strong></span></legend>
+        Mô tả:<br>
+        <input type="number" name="sodienthoai" size="200%"></input>
+    </fieldset>
+</form>
+<form>
+    <fieldset>
+        <legend><span style="font-size: 25px"><strong>Ghi chú:</strong></span></legend>
+        Mô tả:<br>
+        <input type="text" name="ghichu" size="200%"></input>
+    </fieldset>
+</form>
+<form>
+    <fieldset>
+        <legend><span style="font-size: 25px"><strong>Những điều mà bạn thích:</strong></span></legend>
+        <label><input name="sothich" type="checkbox"><span style="font-size:30px">CodeGym</span></label><br>
+        <label><input name="sothich" type="checkbox"><span style="font-size:30px">Aptech</span></label><br>
+        <label><input name="sothich" type="checkbox"><span style="font-size:30px">Vtc unersity</span></label><br>
+        <label><input name="sothich" type="checkbox"><span style="font-size:30px">Codevn</span></label><br>
+        <input type="reset" value="reset"/>
+    </fieldset>
+</form>
+<form method="POST">
+    <p class="center"> <input type="submit" value="Send data"</p>
+</form>
+</body>
+</html>
