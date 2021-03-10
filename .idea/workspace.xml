@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fda49b6-dea4-4d0f-b7ea-5f772f6975fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/Bài thực hành: Khai báo và sử dụng biến/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/Bài thực hành: Khai báo và sử dụng biến/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/Bài thực hành: Khai báo và sử dụng biến/Ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/Changing currency/Changing currency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/[Thực hành] Sử dụng toán tử/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/7.Biến, kiểu dữ liệu và toán tử/[Thực hành] Sử dụng toán tử/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module-1/8.if_else-switch_case/[Thực hành] Kiểm tra năm nhuận/[Thực hành] Kiểm tra năm nhuận.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pT78lcylXFbsxKgmQTDHV9d5Xw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fda49b6-dea4-4d0f-b7ea-5f772f6975fa" name="Default Changelist" comment="" />
+      <created>1615195068881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615195068881</updated>
+      <workItem from="1615195070040" duration="2760000" />
+      <workItem from="1615218260769" duration="109000" />
+      <workItem from="1615250086598" duration="868000" />
+      <workItem from="1615252042371" duration="60000" />
+      <workItem from="1615252131515" duration="15499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

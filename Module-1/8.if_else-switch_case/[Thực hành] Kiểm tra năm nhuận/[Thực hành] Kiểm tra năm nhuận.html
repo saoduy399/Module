@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Năm nhuận?</title>
+</head>
+<body>
+<h1>Có phải năm nhuận không nè?</h1>
+<script>
+    let year=parseInt(prompt("Please type in a year:"));
+    if(year%4==0)
+        if(year%100==0)
+            if(year%400==0){
+                document.write(year+"is a leap year");
+            }else{
+                document.write(year+"is not a leap year");
+            }
+        else{
+            document.write(year+"is a leap year");
+    }
+    else{
+        document.write(year+"khong phai nam nhuan");
+    }
+
+</script>
+</body>
+</html>
