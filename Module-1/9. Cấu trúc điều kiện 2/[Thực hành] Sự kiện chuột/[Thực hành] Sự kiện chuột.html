@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Click chuột</title>
+</head>
+<body>
+<form>
+    <img id="myimage" src="Gao đỏ.png" height="606" width="240"/>
+    <h2>Click me to go right gao ranger</h2>
+    <input type="button" value="click me" onclick="moveright()">
+</form>
+<script>
+    let imgObj=null;
+    function init(){
+        imgObj=document.getElementById("myimage");
+        imgObj.style.position="relative";
+        imgObj.style.left="10px";
+    }
+    function moveright(){
+        imgObj.style.left=parseInt(imgObj.style.left)+10+"px";
+    }
+    window.onload = init;
+</script>
+</body>
+</html>
